@@ -86,15 +86,15 @@ Atualmente estudo e desenvolvo projetos ligados a:
 
 # 🧠 Habilidades Técnicas
 
-✔️ Desenvolvimento de APIs REST com Spring Boot
-✔️ Segurança com Spring Security + JWT 
-✔️ Integração assíncrona com RabbitMQ
-✔️ Modelagem de dados com JPA/Hibernate 
-✔️ Banco de dados relacionais 
-✔️ Testes unitários e de integração com JUnit e Mockito 
-✔️ Containerização com Docker 
-✔️ Versionamento com Git e GitHub 
-✔️ Clean Code e boas práticas de desenvolvimento 
+✔️ Desenvolvimento de APIs REST com Spring Boot <br>
+✔️ Segurança com Spring Security + JWT <br>
+✔️ Integração assíncrona com RabbitMQ <br>
+✔️ Modelagem de dados com JPA/Hibernate <br>
+✔️ Banco de dados relacionais <br>
+✔️ Testes unitários e de integração com JUnit e Mockito <br> 
+✔️ Containerização com Docker <br>
+✔️ Versionamento com Git e GitHub <br> 
+✔️ Clean Code e boas práticas de desenvolvimento <br> 
 
 ---
 

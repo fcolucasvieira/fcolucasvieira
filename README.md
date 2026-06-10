@@ -10,7 +10,7 @@
 
 # 😎 Sobre mim
 
-Sou **desenvolvedor Back-End** em formação, focado na construção de aplicações concretas utilizando **Java e Spring Boot**.
+Sou desenvolvedor *Back-End* em formação, focado na construção de aplicações concretas utilizando *Java e Spring Boot*.
 
 Atualmente estudo e desenvolvo projetos ligados a:
 
@@ -86,22 +86,22 @@ Atualmente estudo e desenvolvo projetos ligados a:
 
 # 🧠 Habilidades Técnicas
 
-✔️ Desenvolvimento de APIs REST com Spring Boot  
-✔️ Segurança com Spring Security + JWT  
-✔️ Integração assíncrona com RabbitMQ  
-✔️ Modelagem de dados com JPA/Hibernate  
-✔️ Banco de dados relacionais   
-✔️ Testes unitários e de integração com JUnit e Mockito  
-✔️ Containerização com Docker  
-✔️ Versionamento com Git e GitHub  
-✔️ Clean Code e boas práticas de desenvolvimento
+✔️ Desenvolvimento de APIs REST com Spring Boot
+✔️ Segurança com Spring Security + JWT 
+✔️ Integração assíncrona com RabbitMQ
+✔️ Modelagem de dados com JPA/Hibernate 
+✔️ Banco de dados relacionais 
+✔️ Testes unitários e de integração com JUnit e Mockito 
+✔️ Containerização com Docker 
+✔️ Versionamento com Git e GitHub 
+✔️ Clean Code e boas práticas de desenvolvimento 
 
 ---
 
 # 📚 Atualmente estudando
 
-- Microsserviços
-- Arquitetura orientada a eventos
+- Arquitetura de Microsserviços
+- Event-Driven Systems
 - Observabilidade
 - Docker e containers
 - AWS
@@ -114,14 +114,13 @@ Atualmente estudo e desenvolvo projetos ligados a:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fcolucasvieira&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fcolucasvieira&theme=tokyonight"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fcolucasvieira&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📫 Contato
+# 📩 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fco-lucas-vieira/" target="_blank">
@@ -135,7 +134,7 @@ Atualmente estudo e desenvolvo projetos ligados a:
 
 ---
 
-# 🚀 Filosofia
+# 🧭 Filosofia
 
 > _"Código não se trata apenas de resolver problemas.
 > Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."_
